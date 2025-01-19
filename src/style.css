@@ -68,7 +68,7 @@ h1 {
   font-size: 2.5em;
 }
 #lol {
-  margin-top: 200px;
+  margin-top: 100px;
 }
 
 #projects {
@@ -84,7 +84,6 @@ h1 {
   /* Row layout for projects */
   display: flex;
   justify-content: center;
-  padding-top: 5em;
 }
 
 .three-model {
@@ -114,7 +113,7 @@ img {
 #images {
   /* Center image container */
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto auto;
   gap: 10px; 
   justify-content: center;
@@ -137,8 +136,7 @@ img {
   height: 11em;
   width: 35em;
   font-weight: 100;
-  margin-left: 440px;
-  margin-top: -100px;
+  margin-left: 545px;
 }
 
 @media screen and (max-width: 768px) {
