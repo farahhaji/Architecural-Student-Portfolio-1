@@ -31,7 +31,7 @@ document.querySelector("#app").innerHTML = `
     <section id="heading">
       <h1>${data.name}</h1>
       <p>${data.bio}</p>
-      <p id="lol">A1: CADAVRE EXQUIS </p>
+      <p id="lol">01: CADAVRE EXQUIS / building wisdom </p>
     </section>
     <section id="projects">
       <div id="project-row">
