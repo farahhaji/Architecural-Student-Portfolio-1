@@ -31,11 +31,10 @@ document.querySelector("#app").innerHTML = `
     <section id="heading">
       <h1>${data.name}</h1>
       <p>${data.bio}</p>
+      <p id="lol">A1: Cadavre Exquis </p>
     </section>
-
     <section id="projects">
       <div id="project-row">
-      A1: Cadavre Exquis
         <div class="three-model">
           <a href="./houseDrawings/house0.png" target="_blank"> 
           <img src="./houseDrawings/house0.png" id="model1" alt="Model 1 Image">
