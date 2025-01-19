@@ -13,7 +13,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 #app {
   /* Flex container for the app root */
   display: flex;
@@ -111,10 +110,12 @@ img {
 
 #images {
   /* Center image container */
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat (2, 1fr);
+  grid-template-rows: auto auto;
+  gap: 10px; 
   justify-content: center;
   align-items: center;
-  height: 8em;
   margin-bottom: 30px;
 }
 

@@ -67,8 +67,8 @@ document.querySelector("#app").innerHTML = `
   </a>
 </div>
           </div>
-          <h4 id="description"> This visual exploration delves into the application of knowledge in design and its power in shaping urban contexts, for better or worse. Design can foster agency, curiosity, and belonging, yet can also be disruptive, diminishing, and harmful. Through sketching, iterating, and returning to intention, I reflected on themes of equity and sustainability, and drew on both local and global examples. This process deepend my understanding of how knowledge application in design shapes our world, and highlighted a vital need for wisdom and care in our steps forward.</h4>
         </div>
+        <h4 id="description"> This visual exploration delves into the application of knowledge in design and its power in shaping urban contexts, for better or worse. Design can foster agency, curiosity, and belonging, yet can also be disruptive, diminishing, and harmful. Through sketching, iterating, and returning to intention, I reflected on themes of equity and sustainability, and drew on both local and global examples. This process deepend my understanding of how knowledge application in design shapes our world, and highlighted a vital need for wisdom and care in our steps forward.</h4>
       </div>
       
       ${/* Model 2 commented out
