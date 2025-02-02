@@ -107,8 +107,17 @@ document.querySelector("#app").innerHTML = `
           </div>
         </div>
       </div> 
-      <h4 id="description"> This project introduced me to opportunities with interoperability-based workflows between Blender and Rhino, where I explored mesh and NURBS modeling. Through experimentation with geometric functions in Rhino, I gained insights into how these tools complement each other for flexible, iterative design, as well as precise, final-stage modeling. [For a detailed description, please see images].</h4>
+      <h4 id="description"> This project introduced me to opportunities with interoperability-based workflows between Blender and Rhino, where I explored mesh and NURBS modeling. Through experimentation with geometric functions in Rhino, I gained insights into how these tools complement each other for flexible, iterative design, as well as precise, final-stage modeling. [For a detailed reflection, please see last image].</h4>
     </div>
+            <a href="./a2images/front.png" target="_blank">
+              <img src="./a2images/front.png" alt="front" />
+            </a>
+            <a href="./a2images/side.png" target="_blank">
+              <img src="./a2images/side.png" alt="side" />
+            </a>
+            <a href="./a2images/back.png" target="_blank">
+              <img src="./a2images/back.png" alt="back" />
+            </a>
             <a href="./a2images/front.png" target="_blank">
               <img src="./a2images/front.png" alt="front" />
             </a>
