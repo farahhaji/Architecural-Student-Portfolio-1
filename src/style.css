@@ -125,10 +125,37 @@ img {
   margin: 0.5em;
 }
 
+img.square {
+  /* Image dimensions and margin */
+  height: 170px;
+  width: 170px;
+  margin-right: 1em;
+  margin-left: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+img.board {
+  /* Image dimensions and margin */
+  height: 355px;
+  width: 250px;
+  margin: 0.5em;
+}
+
 #images {
   /* Center image container */
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto auto;
+  gap: 10px; 
+  justify-content: center;
+  align-items: center;
+}
+
+#images-4 {
+  /* Center image container */
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto auto;
   gap: 10px; 
   justify-content: center;
@@ -149,9 +176,8 @@ img {
   display: flex;
   align-items: center;
   height: 11em;
-  width: 35em;
+  width: 50em;
   font-weight: 100;
-  margin-left: 545px;
 }
 
 @media screen and (max-width: 768px) {

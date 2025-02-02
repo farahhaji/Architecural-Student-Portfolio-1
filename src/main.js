@@ -66,8 +66,9 @@ document.querySelector("#app").innerHTML = `
           </div>
         </div>
       </div>
-      <h4 id="description"> This visual exploration delves into the application of knowledge in design and its power in shaping urban contexts, for better or worse. Design can foster agency, curiosity, and belonging, yet can also be disruptive, diminishing, and harmful. Through sketching, iterating, and returning to intention, I reflected on themes of equity and sustainability, and drew on both local and global examples. This process deepened my understanding of how knowledge application in design shapes our world, and highlighted a vital need for wisdom and care in our steps forward.</h4>
     </div>
+    <h4 id="description"> This visual exploration delves into the application of knowledge in design and its power in shaping urban contexts, for better or worse. Design can foster agency, curiosity, and belonging, yet can also be disruptive, diminishing, and harmful. Through sketching, iterating, and returning to intention, I reflected on themes of equity and sustainability, and drew on both local and global examples. This process deepened my understanding of how knowledge application in design shapes our world, and highlighted a vital need for wisdom and care in our steps forward.</h4>
+
 
 
 
@@ -90,46 +91,51 @@ document.querySelector("#app").innerHTML = `
       <div class="three-model">
          <div id="model4"></div>
       </div>
-      <div id="images-description">
-          <div id="images">
-            <a href="./a2images/board1.png" target="_blank">
-              <img src="./a2images/board1.png" alt="board1" />
-            </a>
-            <a href="./a2images/board2.png" target="_blank">
-              <img src="./a2images/board2.png" alt="board2" />
-            </a>
-            <a href="./a2images/board3.png" target="_blank">
-              <img src="./a2images/board3.png" alt="board3" />
-            </a>
-            <a href="./a2images/board4.png" target="_blank">
-              <img src="./a2images/board4.png" alt="board4" />
-            </a>
-          </div>
+        <div id="images">
+          <a href="./a2images/front.png" target="_blank">
+            <img class="square" src="./a2images/front.png" alt="front" />
+          </a>
+          <a href="./a2images/side.png" target="_blank">
+            <img class="square" src="./a2images/side.png" alt="side" />
+          </a>
+          <a href="./a2images/back.png" target="_blank">
+            <img class="square" src="./a2images/back.png" alt="back" />
+          </a>
+          <a href="./a2images/front.png" target="_blank">
+            <img class="square" src="./a2images/front.png" alt="front" />
+          </a>
+          <a href="./a2images/side.png" target="_blank">
+            <img class="square" src="./a2images/side.png" alt="side" />
+          </a>
+          <a href="./a2images/back.png" target="_blank">
+            <img class="square" src="./a2images/back.png" alt="back" />
+          </a>
         </div>
-      </div> 
+      </div>
       <h4 id="description"> This project introduced me to opportunities with interoperability-based workflows between Blender and Rhino, where I explored mesh and NURBS modeling. Through experimentation with geometric functions in Rhino, I gained insights into how these tools complement each other for flexible, iterative design, as well as precise, final-stage modeling. [For a detailed reflection, please see last image].</h4>
     </div>
-            <a href="./a2images/front.png" target="_blank">
-              <img src="./a2images/front.png" alt="front" />
-            </a>
-            <a href="./a2images/side.png" target="_blank">
-              <img src="./a2images/side.png" alt="side" />
-            </a>
-            <a href="./a2images/back.png" target="_blank">
-              <img src="./a2images/back.png" alt="back" />
-            </a>
-            <a href="./a2images/front.png" target="_blank">
-              <img src="./a2images/front.png" alt="front" />
-            </a>
-            <a href="./a2images/side.png" target="_blank">
-              <img src="./a2images/side.png" alt="side" />
-            </a>
-            <a href="./a2images/back.png" target="_blank">
-              <img src="./a2images/back.png" alt="back" />
-            </a>
+    <div id="project-row">   
+      <div id="images-4">
+      
 
-    
 
+
+        <a href="./a2images/board1.png" target="_blank">
+          <img class="board" src="./a2images/board1.png" alt="board1" />
+        </a>
+        <a href="./a2images/board2.png" target="_blank">
+          <img class="board" src="./a2images/board2.png" alt="board2" />
+        </a>
+        <a href="./a2images/board3.png" target="_blank">
+          <img class="board" src="./a2images/board3.png" alt="board3" />
+        </a>
+        <a href="./a2images/board4.png" target="_blank">
+          <img class="board" src="./a2images/board4.png" alt="board4" />
+        </a>
+      </div>
+    </div>
+
+            
 
     </section>
 
