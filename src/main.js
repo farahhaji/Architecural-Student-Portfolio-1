@@ -92,15 +92,32 @@ document.querySelector("#app").innerHTML = `
       </div>
       <div id="images-description">
           <div id="images">
-            <a href="./a2images/torus.png" target="_blank">
-              <img src="./a2images/torus.png" alt="torus" />
+            <a href="./a2images/board1.png" target="_blank">
+              <img src="./a2images/board1.png" alt="board1" />
+            </a>
+            <a href="./a2images/board2.png" target="_blank">
+              <img src="./a2images/board2.png" alt="board2" />
+            </a>
+            <a href="./a2images/board3.png" target="_blank">
+              <img src="./a2images/board3.png" alt="board3" />
+            </a>
+            <a href="./a2images/board4.png" target="_blank">
+              <img src="./a2images/board4.png" alt="board4" />
             </a>
           </div>
         </div>
       </div> 
       <h4 id="description"> This project introduced me to opportunities with interoperability-based workflows between Blender and Rhino, where I explored mesh and NURBS modeling. Through experimentation with geometric functions in Rhino, I gained insights into how these tools complement each other for flexible, iterative design, as well as precise, final-stage modeling. [For a detailed description, please see images].</h4>
     </div>
-
+            <a href="./a2images/front.png" target="_blank">
+              <img src="./a2images/front.png" alt="front" />
+            </a>
+            <a href="./a2images/side.png" target="_blank">
+              <img src="./a2images/side.png" alt="side" />
+            </a>
+            <a href="./a2images/back.png" target="_blank">
+              <img src="./a2images/back.png" alt="back" />
+            </a>
 
     
 
