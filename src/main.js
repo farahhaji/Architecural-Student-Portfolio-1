@@ -112,14 +112,10 @@ document.querySelector("#app").innerHTML = `
           </a>
         </div>
       </div>
-      <h4 id="description"> This project introduced me to opportunities with interoperability-based workflows between Blender and Rhino, where I explored mesh and NURBS modeling. Through experimentation with geometric functions in Rhino, I gained insights into how these tools complement each other for flexible, iterative design, as well as precise, final-stage modeling. [For a detailed reflection, please see last image].</h4>
+      <h4 id="description"> This project introduced me to opportunities with interoperability-based workflows between Blender and Rhino, where I explored mesh and NURBS modeling. Through experimentation with geometric functions in Rhino, I gained insights into how these tools complement each other for flexible, iterative design, as well as precise, final-stage modeling.</h4>
     </div>
     <div id="project-row">   
       <div id="images-4">
-      
-
-
-
         <a href="./a2images/board1.png" target="_blank">
           <img class="board" src="./a2images/board1.png" alt="board1" />
         </a>
@@ -134,9 +130,13 @@ document.querySelector("#app").innerHTML = `
         </a>
       </div>
     </div>
-
-            
-
+    <h4 id="reflection-title">reflection<br></h4>
+    <h4 id="reflection">
+      This was my first experience being introduced to “interoperability” and it was intriguing to see the limitless possibilities it can offer. I learned that interoperability is a computational process that translates low-level geometric data and typologies into visual forms that can be manipulated across modelling software. In this assignment, I became familiarized with the workflow between Blender and Rhino and engaged with the complexities of high and low-poly modelling.
+      <br><br>Through each object’s analysis, I began to understand the complexities and methods of deconstructing structure and composition. I noticed how simple functions could drastically alter polygon networks and mesh systems in a much more efficient and accurate way than attempting to do it manually. In particular, I noted the differences between mesh and NURBS modelling. Mesh modelling allows for increased fluidity and high level gestures, which is useful for exploring sketch iterations in Blender and organic forms. Contrastingly, NURBS (Non-Uniform Rational B-Splines) modelling is precise, defined, and accurate, ideal for finalizing a design and ensuring models are organized and clean. 
+      <br><br>As this was my first time engaging with these tools and workflows, I was intrigued by the process, and found it both challenging and rewarding. It charged me to look at geometry differently, moving through the constructing and deconstructing phases to gain a meaningful understanding of the layers involved. I was amazed at the computer system’s ability to simplify growing complexities and I look forward to utilizing these tools further, in my future academic and professional work. In terms of future applications, I would like to explore possibilities in the mesh modelling for pavilion design exploration, and utilize NURBS modelling for urban furniture that can support community interaction while integrating parametric design in everyday life. I look forward to continuing to build on these skills in both Blender and Rhino, and applying them in my graphics and studio courses. 
+      <br><br>In conclusion, this exercise was a valuable introduction to mesh and NURBS modelling and provided me with a new way of perceiving geometry and understanding how these tools complement each other. The workflow between Blender and Rhino was versatile and efficient– something that will be increasingly beneficial as designs grow in complexity. I am eager to see further potential of interoperability and apply these core skills in my future design work.
+    </h4>
     </section>
 
 

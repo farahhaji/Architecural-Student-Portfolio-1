@@ -180,6 +180,19 @@ img.board {
   font-weight: 100;
 }
 
+#reflection-title {
+  font-family: greycliff-cf, sans-serif;
+  font-style: normal;
+}
+
+#reflection {
+  /* Center description content */
+  display: flex;
+  align-items: center;
+  width: 50em;
+  font-weight: 100;
+}
+
 @media screen and (max-width: 768px) {
   #footer-items {
     /* Responsive footer styling */
