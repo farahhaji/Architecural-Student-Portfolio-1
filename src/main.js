@@ -101,14 +101,14 @@ document.querySelector("#app").innerHTML = `
           <a href="./a2images/back.png" target="_blank">
             <img class="square" src="./a2images/back.png" alt="back" />
           </a>
-          <a href="./a2images/front.png" target="_blank">
-            <img class="square" src="./a2images/front.png" alt="front" />
+          <a href="./a2images/paper1.png" target="_blank">
+            <img class="square" src="./a2images/paper1.png" alt="paper1" />
           </a>
-          <a href="./a2images/side.png" target="_blank">
-            <img class="square" src="./a2images/side.png" alt="side" />
+          <a href="./a2images/paper2.png" target="_blank">
+            <img class="square" src="./a2images/paper2.png" alt="paper2" />
           </a>
-          <a href="./a2images/back.png" target="_blank">
-            <img class="square" src="./a2images/back.png" alt="back" />
+          <a href="./a2images/paper3.png" target="_blank">
+            <img class="square" src="./a2images/paper3.png" alt="paper3" />
           </a>
         </div>
       </div>
